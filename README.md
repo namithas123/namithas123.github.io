@@ -1,2 +1,2 @@
 # namithas123.github.io
-Website
+Resume : https://namithas123.github.io/
