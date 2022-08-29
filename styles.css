@@ -186,7 +186,12 @@ body{
 	color: #415058;
 	margin-bottom: 10px;
 }
-
+li {
+    font-size: 17px;
+    margin-left: 20px;
+    list-style-type: circle;
+	
+ }
 
 @media screen and (max-width: 800px){
 	.resume_wrapper .resume_right .resume_namerole{
